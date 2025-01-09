@@ -1,0 +1,1 @@
+I've developed an *TO DO LIST* using HTML, CSS, and JavaScript that allows users to add their task, complete them and delete the tasks. This simple yet effective tool ensures that users can easily keep track of their tasks, while also handling invalid inputs gracefully.
